@@ -68,14 +68,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -134,14 +134,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -200,20 +200,21 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
                 //The "int holdvalue" stores the calculation created from the before 
                 //line of code and then coverts the value being held back into a string
                 //where it is outputted through the "textBoxcredits" Text property.
+
             }
         }
 
@@ -266,14 +267,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -332,14 +333,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -398,14 +399,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -464,14 +465,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -530,14 +531,14 @@ namespace Github_Assignment
                 //string so it can be displayed as integers cant be displayed through text.
 
                 txtb_topounds.Text = String.Format("{0:n2}", (Convert.ToDouble(txtb_totalvaluep.Text) / 100));
-                //This line of code now changes the format in which the "txtb_totalvaluep.Text" 
+                //This line of code now chnages the format in which the "txtb_totalvaluep.Text" 
                 //is displayed and places it within the "txtb_topounds.Text". 
-                //It does this by showing how it should be displayed "{0:n2}" and then 
-                //converting the "txtb_totalvaluep.Text" into a double then dividing it by 100.
+                //It does this by showing how it should be displayed "{0:n2}" and then converting the 
+                //"txtb_totalvaluep.Text" into a double then dividing it by 100.
 
                 int holdvalue = (Convert.ToInt32(txtb_totalvaluep.Text)) / (Convert.ToInt32(txtb_costpercredit.Text));
-                //A new integer it made to take in the calculation gained from the before line of 
-                //code and then divides it by the value placed within "txtb_costpercredit.Text". 
+                //A new integer it made to take in the calculation gained from the 
+                //before line of code and then divides it by the value placed within "txtb_costpercredit.Text". 
                 //It does this by converting them into integers first so they can be placed into a calculation.
 
                 textBoxcredits.Text = holdvalue.ToString();
@@ -561,10 +562,16 @@ namespace Github_Assignment
             lbl_50p.Text = "0";
             lbl_100p.Text = "0";
             lbl_200p.Text = "0";
-            //these lines of code are very simple and all they do is when you click the reset button "button1_Click" it changes the values of all the
+            //these lines of code are very simple and all they do is when you click the reset button "button1_Click" it changes the values of all the 
             //Text properties for these text boxes and labels to 0
             //This means you are effectively resetting all of the values to their default or values that have no impact on the application
-            //apart from not allowing you to calculate credits with a message box like what was shown in the "picb_1p_Click" code.
+            //apart from not allowing you to calculate credits with a message box like what was shown in the "picb_1p_Click" code.    
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CenterToScreen();
+
         }
     }
 }
