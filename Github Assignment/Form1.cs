@@ -244,7 +244,7 @@ namespace Github_Assignment
                 //This peice of code makes it so the new "temp" integer adds 1 to the 
                 //labels text each time the picture box named "picb_10p" is clicked.
 
-                lbl_5p.Text = temp.ToString();
+                lbl_10p.Text = temp.ToString();
                 //The "labels" "text property" however cant display integers so the data is 
                 //converted back to a string with this line of code so it can be displayed 
                 //in the "coins entered groupbox".
@@ -549,7 +549,22 @@ namespace Github_Assignment
 
         private void reset_Click(object sender, EventArgs e)
         {
-          
+            textBoxcredits.Text = "0";
+            txtb_costpercredit.Text = "0";
+            txtb_topounds.Text = "0";
+            txtb_totalvaluep.Text = "0";
+            lbl_1p.Text = "0";
+            lbl_2p.Text = "0";
+            lbl_5p.Text = "0";
+            lbl_10p.Text = "0";
+            lbl_20p.Text = "0";
+            lbl_50p.Text = "0";
+            lbl_100p.Text = "0";
+            lbl_200p.Text = "0";
+            //these lines of code are very simple and all they do is when you click the reset button "button1_Click" it changes the values of all the
+            //Text properties for these text boxes and labels to 0
+            //This means you are effectively resetting all of the values to their default or values that have no impact on the application
+            //apart from not allowing you to calculate credits with a message box like what was shown in the "picb_1p_Click" code.
         }
     }
 }
