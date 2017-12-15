@@ -434,72 +434,72 @@
             this.lbl_1p.AutoSize = true;
             this.lbl_1p.Location = new System.Drawing.Point(10, 48);
             this.lbl_1p.Name = "lbl_1p";
-            this.lbl_1p.Size = new System.Drawing.Size(19, 13);
+            this.lbl_1p.Size = new System.Drawing.Size(13, 13);
             this.lbl_1p.TabIndex = 8;
-            this.lbl_1p.Text = "1p";
+            this.lbl_1p.Text = "0";
             // 
             // lbl_2p
             // 
             this.lbl_2p.AutoSize = true;
             this.lbl_2p.Location = new System.Drawing.Point(10, 133);
             this.lbl_2p.Name = "lbl_2p";
-            this.lbl_2p.Size = new System.Drawing.Size(19, 13);
+            this.lbl_2p.Size = new System.Drawing.Size(13, 13);
             this.lbl_2p.TabIndex = 9;
-            this.lbl_2p.Text = "2p";
+            this.lbl_2p.Text = "0";
             // 
             // lbl_5p
             // 
             this.lbl_5p.AutoSize = true;
             this.lbl_5p.Location = new System.Drawing.Point(10, 226);
             this.lbl_5p.Name = "lbl_5p";
-            this.lbl_5p.Size = new System.Drawing.Size(19, 13);
+            this.lbl_5p.Size = new System.Drawing.Size(13, 13);
             this.lbl_5p.TabIndex = 10;
-            this.lbl_5p.Text = "5p";
+            this.lbl_5p.Text = "0";
             // 
             // lbl_10p
             // 
             this.lbl_10p.AutoSize = true;
             this.lbl_10p.Location = new System.Drawing.Point(10, 318);
             this.lbl_10p.Name = "lbl_10p";
-            this.lbl_10p.Size = new System.Drawing.Size(25, 13);
+            this.lbl_10p.Size = new System.Drawing.Size(13, 13);
             this.lbl_10p.TabIndex = 11;
-            this.lbl_10p.Text = "10p";
+            this.lbl_10p.Text = "0";
             // 
             // lbl_20p
             // 
             this.lbl_20p.AutoSize = true;
             this.lbl_20p.Location = new System.Drawing.Point(10, 408);
             this.lbl_20p.Name = "lbl_20p";
-            this.lbl_20p.Size = new System.Drawing.Size(25, 13);
+            this.lbl_20p.Size = new System.Drawing.Size(13, 13);
             this.lbl_20p.TabIndex = 12;
-            this.lbl_20p.Text = "20p";
+            this.lbl_20p.Text = "0";
             // 
             // lbl_50p
             // 
             this.lbl_50p.AutoSize = true;
             this.lbl_50p.Location = new System.Drawing.Point(10, 491);
             this.lbl_50p.Name = "lbl_50p";
-            this.lbl_50p.Size = new System.Drawing.Size(25, 13);
+            this.lbl_50p.Size = new System.Drawing.Size(13, 13);
             this.lbl_50p.TabIndex = 13;
-            this.lbl_50p.Text = "50p";
+            this.lbl_50p.Text = "0";
             // 
             // lbl_100p
             // 
             this.lbl_100p.AutoSize = true;
             this.lbl_100p.Location = new System.Drawing.Point(10, 597);
             this.lbl_100p.Name = "lbl_100p";
-            this.lbl_100p.Size = new System.Drawing.Size(19, 13);
+            this.lbl_100p.Size = new System.Drawing.Size(13, 13);
             this.lbl_100p.TabIndex = 14;
-            this.lbl_100p.Text = "£1";
+            this.lbl_100p.Text = "0";
             // 
             // lbl_200p
             // 
             this.lbl_200p.AutoSize = true;
             this.lbl_200p.Location = new System.Drawing.Point(10, 684);
             this.lbl_200p.Name = "lbl_200p";
-            this.lbl_200p.Size = new System.Drawing.Size(19, 13);
+            this.lbl_200p.Size = new System.Drawing.Size(13, 13);
             this.lbl_200p.TabIndex = 15;
-            this.lbl_200p.Text = "£2";
+            this.lbl_200p.Text = "0";
             // 
             // label16
             // 
